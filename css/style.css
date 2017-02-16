@@ -15,14 +15,14 @@
 }
 
 .navHeader{
-  height: 73px;
-  background-color:#3B5998;
+  height: 120px;
+  background-color:#273FD2;
 }
 
 .myButton{
-  margin-top:20px;
+  margin-top:40px;
   font-size: 12px;
-  width:66px;
+  width:100px;
   height:28px;
   background-color:#42B72A;
   color:#ffffff;
@@ -37,7 +37,7 @@
 }
 
 #_55:hover{
-  background-color:#3B5998;
+  background-color:#273FD2;
   height:72px; 
 }
 
